@@ -291,8 +291,8 @@ The table below maps the primary collaboration touchpoints among OctoAcme roles 
 | **Tech Lead / Solution Architect** | Architecture spike, ADR initiation | Technical design, non-functional requirements | Design reviews, technical risk mitigation | Architecture sign-off, deployment review | ADR review, technical debt backlog |
 | **UX/UI Designer** | UX research, problem framing | User flows, design milestones | Spec handoff, design QA | Visual acceptance validation | Design quality retrospective |
 | **DevOps / Platform Engineer** | Environment needs assessment | Pipeline and infra planning | CI/CD maintenance, environment support | Deployment execution, rollback readiness | Incident review, pipeline improvement |
-| **Security Champion** | Threat model initiation | Security requirements in backlog | Code review, vulnerability triage | Security sign-off, scan results | Security posture retrospective |
-| **Customer Success Liaison** | Customer context and pain points | Support readiness planning | Feedback relay, escalation triage | Support enablement, known-issue comms | Customer sentiment review |
+| Security Champion / Security Engineer | Threat model initiation | Security requirements in backlog | Code review, vulnerability triage | Security sign-off, scan results | Security posture retrospective |
+| Customer Success / Support Liaison | Customer context and pain points | Support readiness planning | Feedback relay, escalation triage | Support enablement, known-issue comms | Customer sentiment review |
 | **Data Analyst / BI Partner** | Metric definition, tracking plan | Instrumentation requirements | Tracking implementation review | Dashboard readiness, experiment launch | Outcome analysis, KPI retrospective |
 
 ---
